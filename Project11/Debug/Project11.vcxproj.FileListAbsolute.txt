@@ -1,0 +1,5 @@
+C:\Users\slava\source\repos\Project11\Debug\Project11.exe
+C:\Users\slava\source\repos\Project11\Debug\Project11.vcxproj.AssemblyReference.cache
+C:\Users\slava\source\repos\Project11\Debug\Project11.PaintForm.resources
+C:\Users\slava\source\repos\Project11\Debug\Project11.vcxproj.GenerateResource.cache
+C:\Users\slava\source\repos\Project11\Debug\Project11.vcxproj.SuggestedBindingRedirects.cache

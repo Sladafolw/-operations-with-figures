@@ -1,0 +1,4 @@
+﻿  PaintForm.cpp
+C:\Users\slava\source\repos\Project11\PaintForm.cpp(17,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  PaintForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project11.vcxproj -> C:\Users\slava\source\repos\Project11\Debug\Project11.exe
